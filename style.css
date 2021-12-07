@@ -1,0 +1,34 @@
+body{
+
+  align-items: center;
+}
+h1{
+  text-align: center;
+}
+#menu{
+  display:flex;
+  align-items: center;
+  text-align: center;
+}
+
+.foodItem{
+  padding:20px;
+  margin:20px;
+  width:60%;
+  background-color: pink;
+}
+.drinkItem{
+  padding:20px;
+  margin:20px;
+  width:60%;
+  background-color: #92E1F5;
+}
+h3{
+font-size:30px;
+}
+h4{
+  font-size:20px;
+}
+.images{
+  width:50%;
+}
